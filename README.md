@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NidhiU-24
-- 👀 I’m interested in Data Analysis and Data Visualization on Tableau and Power Bi
-- 🌱 I’m currently learning Data Visualization in Python
-- 💞️ I’m looking to collaborate on Various Projects on data visualization and learn new things
+- 👀 I’m interested in Data Analysis and Data Visualization 
+- 🌱 I’m currently learning Data Modelling
+- 💞️ I’m looking to collaborate on Various Projects and learn new things
 - 📫 How to reach me . Reach me on linkedIn: www.linkedin.com/in/nidhi-uchil24
 -                                   email id: uchil.n@northeastern.edu / nidhiuchil24@gmail.com
 
