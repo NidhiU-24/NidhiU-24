@@ -20,7 +20,12 @@
 - ⚡ Fun fact **I love uncovering hidden stories in data and I believe every dataset has one.**
 
 <h3 align="left">Connect with me:</h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nidhi-uchil24) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nidhiuchil24@gmail.com) 
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nidhi-uchil24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nidhi-uchil24/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/nidhiuchil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/nidhiuchil" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/nidhi_u_chil?igsh=mtqzbge2ymn3awz3dq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nidhi_u_chil?igsh=mtqzbge2ymn3awz3dq==" height="30" width="40" /></a>
+<a href="https://discord.gg/#8588" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8588" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
