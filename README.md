@@ -20,13 +20,7 @@
 - ⚡ Fun fact **I love uncovering hidden stories in data and I believe every dataset has one.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nidhi uchil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nidhi uchil" height="30" width="40" /></a>
-  &nbsp;
-<a href="mailto:nidhiuchil24@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="nidhiuchil24@gmail.com" height="30" width="40" />
-</a>
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nidhi-uchil24) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nidhiuchil24@gmail.com) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
