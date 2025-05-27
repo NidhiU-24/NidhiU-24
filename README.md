@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Nidhi Nityanand Uchil Resume](https://drive.google.com/file/d/1pyRzhhw7P1rUsAXm5uY9Ewda-CZC0Njn/view?usp=drive_link)
 
-- ⚡ Fun fact **I love uncovering hidden stories in data—and I believe every dataset has one.**
+- ⚡ Fun fact **I love uncovering hidden stories in data and I believe every dataset has one.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
