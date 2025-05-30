@@ -23,7 +23,6 @@
 
 <br>
 
-
 <h2 align="center">Languages and Tools:</h2>
 <p align="center"> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40"/>
