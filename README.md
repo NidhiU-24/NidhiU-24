@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nidhi!</h1>
 <h3 align="center">A data professional passionate about transforming data into actionable insights</h3>
 
-- 🔭 I’m currently working on [Predicting Player Online Gaming Behavior](https://github.com/NidhiU-24/Predicting-Player-Online-Gaming-Behavior)
+
 
 - 🌱 I’m currently learning **Advanced NLP, and model interpretability tools**
 
